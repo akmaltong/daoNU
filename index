@@ -4,6 +4,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Даосские практики для женщин</title>
+
+<!-- Open Graph / Telegram preview -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://akmaltong.github.io/daoNU/">
+<meta property="og:title" content="Даосские практики для женщин ☯">
+<meta property="og:description" content="Четыре пути пестования жизни (ян шэн) — дыхание, гимнастика, созерцание и образ жизни. По книге Е.А. Торчинова «Пути обретения бессмертия. Даосизм».">
+<meta property="og:image" content="https://akmaltong.github.io/daoNU/preview.png">
+<meta property="og:locale" content="ru_RU">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Даосские практики для женщин ☯">
+<meta name="twitter:description" content="Четыре пути пестования жизни — дыхание, гимнастика, созерцание и образ жизни.">
+<meta name="description" content="Четыре пути пестования жизни (ян шэн) — дыхание, гимнастика, созерцание и образ жизни. По книге Е.А. Торчинова «Пути обретения бессмертия. Даосизм».">
+
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
